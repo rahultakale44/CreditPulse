@@ -1,0 +1,21 @@
+# Credentials / secrets
+.env
+.env.*
+*.env
+secrets/
+credentials/
+**/application.properties
+**/application.yml
+**/application.yaml
+
+# Power BI local/cache files
+*.pbix.autosave
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / IDE
+.vscode/
+.idea/
