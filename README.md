@@ -1,5 +1,6 @@
 # 💳 CreditPulse - Credit Card Financial Analytics Dashboard
 
+
 <div align="center">
 
 ![Project Status](https://img.shields.io/badge/Status-Complete-success)
@@ -36,31 +37,31 @@
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 **CreditPulse** is an end-to-end Business Intelligence solution designed to analyze credit card customer behavior, transaction patterns, and financial performance. The project transforms raw CSV data into actionable insights through a robust MySQL database and interactive Power BI dashboards.
 
 ### Business Objectives
 
-- 📊 **Analyze** credit card transaction patterns and customer behavior
-- 💰 **Track** revenue generation through interest earned and transaction fees
-- ⚠️ **Monitor** delinquency rates and credit risk
-- 🎯 **Segment** customers based on demographics and spending patterns
-- 📈 **Optimize** customer acquisition and retention strategies
+-  **Analyze** credit card transaction patterns and customer behavior
+-  **Track** revenue generation through interest earned and transaction fees
+-  **Monitor** delinquency rates and credit risk
+-  **Segment** customers based on demographics and spending patterns
+-  **Optimize** customer acquisition and retention strategies
 
 ### Key Achievements
 
-- ✅ **10,293 customers** analyzed across 2023
-- ✅ **$45.5M** total transaction volume processed
-- ✅ **667K+** transactions analyzed
-- ✅ **Zero data loss** with 100% integrity validation
-- ✅ **Star schema** implementation for optimized analytics
+-  **10,293 customers** analyzed across 2023
+-  **$45.5M** total transaction volume processed
+-  **667K+** transactions analyzed
+-  **Zero data loss** with 100% integrity validation
+-  **Star schema** implementation for optimized analytics
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 📊 Analytics Capabilities
+###  Analytics Capabilities
 
 - **Transaction Analysis**: Deep dive into transaction amounts, counts, and patterns
 - **Customer Segmentation**: Demographics, geography, income-based segmentation
@@ -69,7 +70,7 @@
 - **Time-Series Analysis**: Weekly, quarterly, and yearly trend analysis
 - **Card Performance**: Analysis by card category (Blue, Silver, Gold, Platinum)
 
-### 🔍 Interactive Dashboards
+###  Interactive Dashboards
 
 - **Executive Overview**: High-level KPIs and business metrics
 - **Customer Demographics**: Age, gender, location, income distribution
