@@ -12,6 +12,10 @@
 
 [View Dashboard](#dashboard-screenshots) • [Documentation](docs/) • [SQL Scripts](sql/)
 
+<p align="center">
+  <img src="./screenshots/dashboard.png" alt="CreditPulse Power BI Dashboard" width="100%" />
+</p>
+
 </div>
 
 ---
