@@ -1,21 +1,78 @@
-# Credentials / secrets
-.env
-.env.*
-*.env
-secrets/
-credentials/
-**/application.properties
-**/application.yml
-**/application.yaml
-
-# Power BI local/cache files
-*.pbix.autosave
-
 # Python
 __pycache__/
-*.pyc
-.venv/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 
-# OS / IDE
-.vscode/
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
 .idea/
+
+# VS Code
+.vscode/
+
+# MySQL
+*.sql.backup
+*.sql~
+
+# Power BI
+*.pbix.tmp
+~$*.pbix
+*.bak
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Credentials (IMPORTANT - never commit passwords)
+config.py
+credentials.json
+.env
+
+# Data backups (keep original CSVs only)
+data/backup/
+data/*_backup.csv
+
+# Documentation drafts
+docs/drafts/
+*.draft.md
+
+# Test files
+test/
+*.test.sql
+
+# Output files
+output/
+results/
+validation_results.txt
